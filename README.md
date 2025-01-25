@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikkiliavinash
-- 👀 I’m interested in java,reactjs,python(data science),DivOps,Cloud :)
+- 👀 I’m interested in java,reactjs,python(data science),DevOps,Cloud :)
 - 🌱 I’m currently learning reactjs,Python Pandas,Java
 - 💞️ I’m looking to collaborate on.....
 - 📫 How to reach me mikkiliavinash7@gmail.com
